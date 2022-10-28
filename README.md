@@ -1,9 +1,13 @@
 # requisicao
 
-Projeto Maven - JAVA 16,
+Comsumindo API com JAVA 16 | Maven Project
 
- - HttpCliente;
- - maven 'jackson'
+ - HttpCliente
+ - Jackson ObjectMapper
+ 
+ 
+ 
+
  
  
 
